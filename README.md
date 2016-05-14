@@ -2,5 +2,10 @@ Code for the [Make a Basic Website with Foundation 6](https://www.youtube.com/pl
 tutorial made by Gary Jennings.
 
 This repo is organized via Git tags that correspond to the tutorial
-chapters/videos. The tag `v1-intro`, for example, is the state prior
+chapters/videos. The tag `v1-intro`, for example, is the state *prior*
 to the 1st video -- basically an empty repo.  
+
+Tags:
+
+1. `v1-intro`: [#1 Intro](https://www.youtube.com/watch?v=2QcpR6cHpnk&index=1&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9)
+2. `v2-project-setup`: [#2 Project Setup ](https://www.youtube.com/watch?v=WlqTTBul7ik&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=2)
