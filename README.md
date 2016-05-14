@@ -9,3 +9,4 @@ Tags:
 
 1. `v1-intro`: [#1 Intro](https://www.youtube.com/watch?v=2QcpR6cHpnk&index=1&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9)
 2. `v2-project-setup`: [#2 Project Setup ](https://www.youtube.com/watch?v=WlqTTBul7ik&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=2)
+3. `v3-sketch-nav`: [#3 Sketch In Nav](https://www.youtube.com/watch?v=GLmSHl_Sm4I&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=3) 
