@@ -14,3 +14,4 @@ Tags:
 5. `v5-wrapper-class`: [#5 Making a Wrapper Class](https://www.youtube.com/watch?v=kXHoNdomHAs&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=5)
 6. `v6-sketch-main`: [#6 Sketching in the Main Section](https://www.youtube.com/watch?v=j8QbGRzCm4g&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=6)
 7. `v7-sketch-footer`: [#7 Sketching in the Footer](https://www.youtube.com/watch?v=JU4IWaeWW5M&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=7)
+8. `v8-refine-nav-1`: [#8 Refining the Nav - Part 1](https://www.youtube.com/watch?v=ycroH1LtPdw&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=8)
