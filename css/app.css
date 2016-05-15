@@ -54,6 +54,13 @@ HERO
   background-color: #999;
   padding: 80px 0;
   height: 400px;
+  background-image: url("../img/pattern.png");
+}
+
+.hero h1,
+.hero p {
+  color: rgba(255, 255, 255, .8);
+  width: 70%;
 }
 
 /* ****************************************************************************
@@ -73,8 +80,29 @@ footer {
   padding: 80px 0;
 }
 
+footer h4 {
+  color: rgba(255, 255, 255, .8);
+  font-size: 1.3em;
+}
+
+footer hr {
+  border-color: rgba(255, 255, 255, .1);
+  margin: 10px 0;
+}
+
 footer a {
   display: block;
+  color: rgba(255, 255, 255, .6);
+  font-size: .8em;
+}
+
+footer a:hover {
+  color: rgba(255, 255, 255, .8);
+}
+
+footer a span {
+  font-weight: bold;
+  color: rgba(255, 255, 255, .3);
 }
 
 /* ****************************************************************************
