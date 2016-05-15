@@ -31,14 +31,19 @@ NAV - DESKTOP
 
 .nav-desktop .menu-desktop {
   line-height: 80px;
-}
-
-.nav-desktop a {
-  
+  background-color: transparent;
 }
 
 .menu > li > a {
   display: inline-block;
+  line-height: 80px;
+  padding-top: 0;
+  padding-bottom: 0;
+  color: white;
+}
+
+.menu > li > a:hover {
+  background-color: rgba(255, 255, 255, .1);
 }
 
 /* ****************************************************************************
@@ -70,4 +75,14 @@ footer {
 
 footer a {
   display: block;
+}
+
+/* ****************************************************************************
+MEDIA QUERY
+**************************************************************************** */
+
+@media (max-width: 639px) {
+  .nav-desktop {
+    display: none;
+  }
 }

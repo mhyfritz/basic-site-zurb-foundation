@@ -16,3 +16,4 @@ Tags:
 7. `v7-sketch-footer`: [#7 Sketching in the Footer](https://www.youtube.com/watch?v=JU4IWaeWW5M&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=7)
 8. `v8-refine-nav-1`: [#8 Refining the Nav - Part 1](https://www.youtube.com/watch?v=ycroH1LtPdw&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=8)
 9. `v9-refine-nav-2`: [#9 Refining the Nav - Part 2](https://www.youtube.com/watch?v=yc0CFxYRmrA&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=9)
+10. `v10-refine-hero-and-footer`: [#10 Refining the Hero and Footer](https://www.youtube.com/watch?v=btWnH3Nyr54&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=10)
