@@ -9,81 +9,104 @@
     <link rel="stylesheet" href="css/app.css">
   </head>
   <body>
+    <div class="off-canvas-wrapper">
+      <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
 
-    <!-- MOBILE NAVIGATION -->
-
-    <!-- DESKTOP NAVIGATION -->
-
-    <nav class="top-bar nav-desktop">
-      <div class="wrap">
-        <div class="top-bar-left">
-            <h3 class="site-logo">Site Title</h3>
-        </div>
-        <div class="top-bar-right">
-          <ul class="menu menu-desktop">
+        <div class="off-canvas position-left" id="mobile-menu" data-off-canvas>
+          <ul>
             <li><a href="#">About</a></li>
             <li><a href="#">Services</a></li>
             <li><a href="#">Contact</a></li>
           </ul>
         </div>
+
+        <div class="off-canvas-content" data-off-canvas-content>
+
+          <!-- MOBILE NAVIGATION -->
+          
+          <div class="title-bar show-for-small-only">
+            <div class="title-bar-left">
+              <button class="menu-icon" type="button" data-open="mobile-menu"></button>
+              <span class="title-bar-title">Site Title</span>
+            </div>
+          </div>
+
+          <!-- DESKTOP NAVIGATION -->
+
+          <nav class="top-bar nav-desktop">
+            <div class="wrap">
+              <div class="top-bar-left">
+                  <h3 class="site-logo">Site Title</h3>
+              </div>
+              <div class="top-bar-right">
+                <ul class="menu menu-desktop">
+                  <li><a href="#">About</a></li>
+                  <li><a href="#">Services</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+
+          <!-- HERO SECTION -->
+
+          <section class="hero">
+            <div class="wrap">
+              <h1>Welcome to Foundation 6</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in.</p>
+              <a href="#" class="button">Learn More</a>
+              <a href="#" class="button success">Contact Us</a>
+            </div>
+          </section>
+
+          <!-- MAIN SECTION -->
+
+          <section class="main">
+            <div class="wrap row">
+              <div class="small-12 medium-7 column">
+                <h1>Main Section</h1>
+                <hr>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              </div>
+              <div class="small-12 medium-5 column">
+                <h1>Secondary Section</h1>
+                <hr>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              </div>
+            </div>
+          </section>
+
+          <!-- FOOTER -->
+
+          <footer>
+            <div class="wrap row small-up-1 medium-up-3">
+              <div class="column">
+                <h4>Contact Info</h4>
+                <hr>
+                <a href="#"><span>Phone</span> 234 234 2340</a>
+                <a href="#"><span>Email</span> info@company.com</a>
+                <a href="#"><span>Address</span> 123 Center Street</a>
+              </div>
+              <div class="column">
+                <h4>Site Map</h4>
+                <hr>
+                <a href="#">About us</a>
+                <a href="#">Services</a>
+                <a href="#">Contact Us</a>
+              </div>
+              <div class="column">
+                <h4>Social Media</h4>
+                <hr>
+                <a href="#">Facebook</a>
+                <a href="#">Twitter</a>
+                <a href="#">Instagram</a>
+              </div>
+            </div>
+          </footer>
+
+        </div>
       </div>
-    </nav>
-
-    <!-- HERO SECTION -->
-
-    <section class="hero">
-      <div class="wrap">
-        <h1>Welcome to Foundation 6</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <a href="#" class="button">Learn More</a>
-        <a href="#" class="button success">Contact Us</a>
-      </div>
-    </section>
-
-    <!-- MAIN SECTION -->
-
-    <section class="main">
-      <div class="wrap row">
-        <div class="small-12 medium-7 column">
-          <h1>Main Section</h1>
-          <hr>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        </div>
-        <div class="small-12 medium-5 column">
-          <h1>Secondary Section</h1>
-          <hr>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- FOOTER -->
-
-    <footer>
-      <div class="wrap row small-up-1 medium-up-3">
-        <div class="column">
-          <h4>Contact Info</h4>
-          <hr>
-          <a href="#"><span>Phone</span> 234 234 2340</a>
-          <a href="#"><span>Email</span> info@company.com</a>
-          <a href="#"><span>Address</span> 123 Center Street</a>
-        </div>
-        <div class="column">
-          <h4>Site Map</h4>
-          <hr>
-          <a href="#">About us</a>
-          <a href="#">Services</a>
-          <a href="#">Contact Us</a>
-        </div>
-        <div class="column">
-          <h4>Social Media</h4>
-          <hr>
-          <a href="#">Facebook</a>
-          <a href="#">Twitter</a>
-          <a href="#">Instagram</a>
-        </div>
-      </div>
-    </footer>
+    </div>
 
     <script src="js/vendor/jquery.js"></script>
     <script src="js/vendor/what-input.js"></script>
