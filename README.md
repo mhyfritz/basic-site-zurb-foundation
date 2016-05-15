@@ -11,3 +11,4 @@ Tags:
 2. `v2-project-setup`: [#2 Project Setup ](https://www.youtube.com/watch?v=WlqTTBul7ik&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=2)
 3. `v3-sketch-nav`: [#3 Sketch In Nav](https://www.youtube.com/watch?v=GLmSHl_Sm4I&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=3)
 4. `v4-sketch-hero`: [#4 Sketch in the Hero Section](https://www.youtube.com/watch?v=w1hrn8Ge7uM&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=4)
+5. `v5-wrapper-class`: [#5 Making a Wrapper Class](https://www.youtube.com/watch?v=kXHoNdomHAs&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=5)
