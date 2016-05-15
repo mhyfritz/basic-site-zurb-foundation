@@ -15,3 +15,4 @@ Tags:
 6. `v6-sketch-main`: [#6 Sketching in the Main Section](https://www.youtube.com/watch?v=j8QbGRzCm4g&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=6)
 7. `v7-sketch-footer`: [#7 Sketching in the Footer](https://www.youtube.com/watch?v=JU4IWaeWW5M&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=7)
 8. `v8-refine-nav-1`: [#8 Refining the Nav - Part 1](https://www.youtube.com/watch?v=ycroH1LtPdw&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=8)
+9. `v9-refine-nav-2`: [#9 Refining the Nav - Part 2](https://www.youtube.com/watch?v=yc0CFxYRmrA&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9&index=9)
